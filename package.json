@@ -39,7 +39,7 @@
     "glob": "^7.1.6",
     "jsonwebtoken": "^8.5.1",
     "kcors": "^2.2.2",
-    "koa": "^2.13.1",
+    "koa": "^2.15.4",
     "koa-bodyparser": "^4.3.0",
     "koa-convert": "^2.0.0",
     "koa-generic-session": "^2.1.1",
@@ -53,7 +53,7 @@
     "nodemailer": "^6.4.17",
     "p-retry": "^4.1.0",
     "passport-local": "^1.0.0",
-    "slp-cli-wallet": "^3.0.1",
+    "slp-cli-wallet": "^3.1.0",
     "winston": "^3.3.3",
     "winston-daily-rotate-file": "^4.5.0"
   },
