@@ -32,7 +32,7 @@
   },
   "repository": "Permissionless-Software-Foundation/jwt-bch-api",
   "dependencies": {
-    "@psf/bch-js": "4.16.0",
+    "@psf/bch-js": "6.8.2",
     "axios": "^0.21.1",
     "bch-util": "^1.2.3",
     "bcryptjs": "^2.4.3",
@@ -50,7 +50,7 @@
     "koa-static": "^5.0.0",
     "line-reader": "^0.4.0",
     "mongoose": "^5.11.15",
-    "nodemailer": "^6.4.17",
+    "nodemailer": "^7.0.7",
     "p-retry": "^4.1.0",
     "passport-local": "^1.0.0",
     "slp-cli-wallet": "^3.0.1",
